@@ -1,7 +1,7 @@
 ![MasterHead](https://infozla.com/wp-content/uploads/2022/12/61be16afc2df9.jpg)
 <h1 align="center">Hi 👋, I'm Angelina Mier</h1>
 <h3 align="center">Computer Engineering student from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src = https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRyYXFpdDIyZjk0NThodGtxYTNlMDlwcmZ2ZmFwd3FlNDN1MGdqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif>
+<img align="right" alt="Coding" width="400" src = https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNpY3o0NXhwbDFiNmdxc2dzZXU3ZHB5OHk1bzR5aTAyaTl0bXN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mier03&label=Profile%20views&color=0e75b6&style=flat" alt="mier03" /> </p>
 
