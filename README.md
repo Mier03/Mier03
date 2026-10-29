@@ -1,6 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/c1d5e9bcfd8bd9c5cd549a25f15a8a72a12a0d55b81e35ed75ffe212435934eb/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966)
+(https://camo.githubusercontent.com/c1d5e9bcfd8bd9c5cd549a25f15a8a72a12a0d55b81e35ed75ffe212435934eb/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966)
 <h1 align="center">Hi 👋, I'm Angelina Mier</h1>
-<h3 align="center">Computer Engineering student from the Philippines</h3>
+<h3 align="center">Computer Engineering from the Philippines</h3>
 <img align="right" alt="Coding" width="300" style="padding-below: 20px" src = https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNpY3o0NXhwbDFiNmdxc2dzZXU3ZHB5OHk1bzR5aTAyaTl0bXN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mier03&label=Profile%20views&color=0e75b6&style=flat" alt="mier03" /> </p>
